@@ -22,26 +22,8 @@ This Real-Time Location Sharing App is a web application that allows users to sh
 - **Bootstrap:** Frontend styling and layout.
 - **jQuery:** Simplifies DOM manipulation and event handling.
 
-## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/AnasQiblawi/Real-Time-Location-Sharing-App.git
-   cd Real-Time-Location-Sharing-App
-   ```
 
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the Server:**
-   ```bash
-   npm start
-   ```
-
-4. **Open in Browser:**
-   Open your web browser and go to [http://localhost:80/](http://localhost:80/)
 
 ## Usage
 
@@ -52,7 +34,3 @@ This Real-Time Location Sharing App is a web application that allows users to sh
 2. **Watch Location:**
    - Visit [http://localhost:80/sharingid/{your-sharing-id}](http://localhost:80/sharingid/{your-sharing-id}) to watch a specific location.
    - View real-time location updates and historical path.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues and pull requests.
